@@ -1,6 +1,7 @@
 hello world
 <br>
-by neel👋
+Neel patel is a student pursuing information technology. a geek for technology and new innovations. hopeful to be a fruitful contributer to various tech projects in my upcoming endeavours
+
 
 <!--
 **neel-eng/neel-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
