@@ -1,6 +1,6 @@
 Hello
 <br>
-Neel patel is a student pursuing information technology. a geek for technology and new innovations. hopeful to be a fruitful contributer to various tech projects in my upcoming endeavours
+Neel patel is a student pursuing information technology. a geek for technology and new innovations. hopeful to be a fruitful contributer to various tech projects in my upcoming endeavours.
 
 
 <!--
